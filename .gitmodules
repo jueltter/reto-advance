@@ -1,0 +1,6 @@
+[submodule "reto-advance-01-backend"]
+	path = reto-advance-01-backend
+	url = https://github.com/jueltter/reto-advance-01-backend.git
+[submodule "reto-advance-02-frontend"]
+	path = reto-advance-02-frontend
+	url = https://github.com/jueltter/reto-advance-02-frontend.git
